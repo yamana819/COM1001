@@ -1,0 +1,4 @@
+Galatasaray,Istanbul,24,1905
+Fenerbahce,Istanbul,19,1907
+Besiktas,Istanbul,16,1903
+Trabzonspor,Trabzon,7,1967
